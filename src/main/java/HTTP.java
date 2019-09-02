@@ -13,37 +13,40 @@ import java.net.Socket;
 
 public class HTTP {
 
-    Socket socket;
-    OutputStream outputStream;
-    InputStream inputStream;
-    {
-        try {
-            socket = new Socket("google.no", 80);
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
+    public static void main(String[] args) {
+
+        Socket socket = null;
+        OutputStream outputStream;
+        InputStream inputStream = null;
+        {
             try {
-                outputStream = socket.getOutputStream();
-                inputStream = socket.getInputStream();
-                outputStream.write("GET /index.html HTTP/1.1\r\n".getBytes());
-                outputStream.write("Host: google.no\r\n".getBytes());
-                outputStream.write("Connection: close\r\n".getBytes());
-                outputStream.write("\r\n".getBytes());
-                outputStream.flush();
+                socket = new Socket("google.no", 80);
             } catch (IOException e) {
                 e.printStackTrace();
-            } finally{
+            } finally {
                 try {
-                int i;
-                while ((i = inputStream.read()) != -1){
-                        System.out.println((char) i);
-                }
+                    outputStream = socket.getOutputStream();
+                    inputStream = socket.getInputStream();
+                    outputStream.write("GET /index.html HTTP/1.1\r\n".getBytes());
+                    outputStream.write("Host: google.no\r\n".getBytes());
+                    outputStream.write("Connection: close\r\n".getBytes());
+                    outputStream.write("\r\n".getBytes());
+                    outputStream.flush();
                 } catch (IOException e) {
-                    System.out.println("cant read socket");
-                }
+                    e.printStackTrace();
+                } finally {
+                    try {
+                        int i;
+                        while ((i = inputStream.read()) != -1) {
+                            System.out.println((char) i);
+                        }
+                    } catch (IOException e) {
+                        System.out.println("cant read socket");
+                    }
 
                 }
 
+            }
         }
     }
 
