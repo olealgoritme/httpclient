@@ -1,0 +1,2946 @@
+!SESSION 2019-09-02 10:32:55.981 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.048
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.312
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.332
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.333
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.366
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.418
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:32:59.628
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:00.615
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:00.633
+!MESSAGE Workspace initialized in 1292ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:00.736
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:01.049
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:01.523
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:01.789
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.072
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.073
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.076
+!MESSAGE Reconciled 0, validated: 1. Took 567 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.084
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.605
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.611
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:02.618
+!MESSAGE Reconciled 0, validated: 1. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:44.006
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:44.505
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:44.505
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:33:44.506
+!MESSAGE Reconciled 0, validated: 1. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:34:50.647
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:34:51.086
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:34:51.087
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:34:51.087
+!MESSAGE Reconciled 0, validated: 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:36:58.465
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:20.094
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:20.913
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:21.020
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:21.250
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:21.623
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:37:24.066
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:47.507
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:48.005
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:48.005
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:48.006
+!MESSAGE Reconciled 0, validated: 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:48.740
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:49.212
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:49.213
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:49.214
+!MESSAGE Reconciled 0, validated: 1. Took 71 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:54.530
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:54.977
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:54.977
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:54.978
+!MESSAGE Reconciled 0, validated: 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:45:57.581
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:04.543
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:06.337
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:06.342
+!MESSAGE >> document/didSave
+!SESSION 2019-09-02 10:48:34.918 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 10:48:35.902
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:37.252
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:37.381
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:37.418
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:37.420
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:37.441
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.027
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.033
+!MESSAGE Workspace initialized in 183ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.050
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.058
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.596
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.597
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:38.599
+!MESSAGE Reconciled 0, validated: 1. Took 111 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:41.196
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:45.051
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:45.235
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:46.004
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:47.530
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:48.096
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:48.245
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:49.967
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:50.324
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:52.063
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:48:52.489
+!MESSAGE >> document/documentHighlight
+!SESSION 2019-09-02 10:49:06.193 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 10:49:07.227
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:08.601
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:08.715
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:08.738
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:08.740
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:08.759
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:09.445
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:09.451
+!MESSAGE Workspace initialized in 164ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:09.461
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:09.467
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:10.015
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:10.016
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:10.019
+!MESSAGE Reconciled 0, validated: 1. Took 75 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:52.081
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:52.099
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:52.617
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:52.618
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:52.618
+!MESSAGE Reconciled 0, validated: 1. Took 69 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:53.119
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:53.542
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:53.724
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:53.868
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:54.115
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:54.281
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:54.428
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:54.712
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:54.858
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:55.012
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:55.172
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:55.422
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:55.580
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:56.487
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:56.634
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:49:57.370
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:01.580
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:02.077
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:02.077
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:02.078
+!MESSAGE Reconciled 0, validated: 1. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:03.036
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:03.557
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:03.557
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:03.558
+!MESSAGE Reconciled 0, validated: 1. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:04.647
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:05.116
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:05.116
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:05.117
+!MESSAGE Reconciled 0, validated: 1. Took 65 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:06.099
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:06.459
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:06.749
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:07.183
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:07.460
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:08.220
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:08.425
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:08.804
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:09.060
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:10.678
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:11.178
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:11.180
+!MESSAGE The assignment to variable socket has no effect is of type AssignmentHasNoEffect
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:11.180
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:11.181
+!MESSAGE Reconciled 0, validated: 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:11.928
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:12.386
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:12.387
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:12.393
+!MESSAGE Reconciled 0, validated: 1. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:16.885
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:17.389
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:17.390
+!MESSAGE This method requires a body instead of a semicolon is of type MethodRequiresBody
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:17.396
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:17.396
+!MESSAGE Reconciled 0, validated: 1. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:18.566
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:19.014
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:19.015
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:19.016
+!MESSAGE Reconciled 0, validated: 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:22.435
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:22.908
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:22.908
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:22.909
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:57.099
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:57.600
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:57.600
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:57.601
+!MESSAGE Reconciled 0, validated: 1. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:50:59.748
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:00.231
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:00.231
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:00.232
+!MESSAGE Reconciled 0, validated: 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:09.555
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:10.032
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:10.033
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:10.033
+!MESSAGE Reconciled 0, validated: 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:11.417
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:11.871
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:11.872
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:11.872
+!MESSAGE Reconciled 0, validated: 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:13.381
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:13.385
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:13.845
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:13.846
+!MESSAGE 5 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:13.846
+!MESSAGE Reconciled 0, validated: 1. Took 61 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:14.456
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:14.462
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:31.065
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:44.628
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:45.429
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:51:46.828
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:17.063
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:17.855
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:17.933
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:18.287
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:18.456
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:18.767
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:18.918
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:19.104
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:19.246
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:21.182
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:52:21.183
+!MESSAGE >> document/didSave
+!SESSION 2019-09-02 10:53:52.001 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 10:53:53.035
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:54.288
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:54.395
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:54.416
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:54.417
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:54.433
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.188
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.194
+!MESSAGE Workspace initialized in 156ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.202
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.210
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.404
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.424
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.868
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.869
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:55.871
+!MESSAGE Reconciled 0, validated: 1. Took 175 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:58.311
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:58.842
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:58.842
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:53:58.843
+!MESSAGE Reconciled 0, validated: 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:03.753
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:04.256
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:04.256
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:04.257
+!MESSAGE Reconciled 0, validated: 1. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:05.830
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:05.833
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:06.315
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:06.315
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:06.316
+!MESSAGE Reconciled 0, validated: 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:10.971
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:13.400
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:16.253
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:22.674
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:23.477
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:23.772
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:23.955
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:24.379
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:25.146
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:48.252
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:49.119
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:49.305
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:50.153
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:50.193
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:50.489
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:50.641
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:50.792
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:51.917
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:52.413
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:52.584
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:52.793
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:52.954
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:53.192
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:53.342
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:53.518
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:53.693
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:53.948
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:54.081
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:54.543
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:54.769
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:55.061
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:55.299
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:54:56.570
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:00.639
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:00.963
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:01.182
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:01.431
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:04.062
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:04.226
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:04.692
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:04.842
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:05.019
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:05.403
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:06.002
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:07.461
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:08.900
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:23.173
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:24.805
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:24.983
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:25.678
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:26.504
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:26.731
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:26.899
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:27.046
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:27.454
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:27.609
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:27.763
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:27.966
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:28.590
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:28.844
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:29.842
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:30.478
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:30.828
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:30.988
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:32.463
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:33.225
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:33.462
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:33.614
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:33.759
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:39.099
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 10:55:39.103
+!MESSAGE >> document/didSave
+!SESSION 2019-09-02 11:32:43.970 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 11:32:45.025
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:46.319
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:46.438
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:46.460
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:46.461
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:46.479
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.084
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.089
+!MESSAGE Workspace initialized in 123ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.101
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.107
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.303
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.374
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.383
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.648
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.867
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.868
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:47.870
+!MESSAGE Reconciled 0, validated: 1. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:48.009
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:48.159
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:48.299
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:48.808
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:48.996
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:49.392
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:51.007
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:32:51.009
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:18.921
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:19.076
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:19.216
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:19.541
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:19.710
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:19.910
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:20.042
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:20.334
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:20.793
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:20.940
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:21.082
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:22.057
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:22.194
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:22.414
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:23.114
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:23.295
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:23.964
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:24.750
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:28.015
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:28.547
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:28.547
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:28.548
+!MESSAGE Reconciled 0, validated: 1. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:29.089
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:29.580
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:29.580
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:29.581
+!MESSAGE Reconciled 0, validated: 1. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:30.020
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:30.026
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:30.524
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:30.524
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:30.525
+!MESSAGE Reconciled 0, validated: 1. Took 48 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:31.318
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:31.473
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:31.620
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:31.762
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:31.924
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:32.080
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:32.707
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:32.856
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:33.014
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:33.157
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:33.295
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:33.439
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:33.977
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:34.366
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:36.707
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:36.708
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.179
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.193
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.193
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.194
+!MESSAGE Reconciled 0, validated: 1. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.372
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:37.557
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:38.225
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:38.391
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:38.588
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:38.923
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:39.478
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:39.479
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:39.629
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:39.807
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.000
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.000
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.001
+!MESSAGE Reconciled 0, validated: 1. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.048
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.584
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:40.741
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.177
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.346
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.498
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.653
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.790
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:41.936
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:42.078
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:43.490
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:43.491
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:43.955
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:43.956
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:43.956
+!MESSAGE Reconciled 0, validated: 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:44.814
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:45.145
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:45.713
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.146
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.297
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.434
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.586
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.732
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:46.864
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:47.127
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:47.270
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:47.542
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:47.687
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:48.350
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:48.510
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:48.691
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:48.863
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:49.299
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:49.459
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:49.797
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:50.044
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:50.359
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:51.566
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:53.102
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:53.104
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:53.194
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:53.630
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:53.884
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:54.257
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:54.535
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:55.364
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:55.366
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:55.854
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:55.855
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:55.855
+!MESSAGE Reconciled 0, validated: 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:56.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:56.156
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:56.584
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:56.585
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:56.585
+!MESSAGE Reconciled 0, validated: 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.078
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.082
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.186
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.416
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.561
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.561
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.561
+!MESSAGE Reconciled 0, validated: 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.645
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:58.800
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:33:59.365
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.154
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.310
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.441
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.592
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.722
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:00.871
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:01.011
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:01.152
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:01.294
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:05.560
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:06.070
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:06.070
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:06.071
+!MESSAGE Reconciled 0, validated: 1. Took 58 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:08.187
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:08.623
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:08.623
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:08.624
+!MESSAGE Reconciled 0, validated: 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:10.151
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:10.582
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:10.582
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:10.588
+!MESSAGE Reconciled 0, validated: 1. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:11.439
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:11.944
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:11.944
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:11.945
+!MESSAGE Reconciled 0, validated: 1. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:19.739
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:20.170
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:20.171
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:20.171
+!MESSAGE Reconciled 0, validated: 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:21.399
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:21.871
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:21.872
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:21.872
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.353
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.358
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.475
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.642
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.839
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.840
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:22.840
+!MESSAGE Reconciled 0, validated: 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:23.066
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:23.220
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:24.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:25.208
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:25.208
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:25.209
+!MESSAGE Reconciled 0, validated: 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:26.014
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:26.450
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:26.450
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:26.451
+!MESSAGE Reconciled 0, validated: 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:33.104
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:33.107
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:33.584
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:33.584
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:33.585
+!MESSAGE Reconciled 0, validated: 1. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:34.000
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:34.005
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:34.518
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:34.688
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:34.975
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:35.126
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:35.277
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:35.524
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:35.810
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:36.497
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:37.865
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:37.868
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:38.338
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:38.338
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:38.338
+!MESSAGE Reconciled 0, validated: 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:41.241
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:41.670
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:41.670
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:41.671
+!MESSAGE Reconciled 0, validated: 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:43.741
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:44.215
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:44.216
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:44.216
+!MESSAGE Reconciled 0, validated: 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:45.622
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:46.095
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:46.095
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:34:46.096
+!MESSAGE Reconciled 0, validated: 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:05.849
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:05.852
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:06.280
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:06.280
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:06.281
+!MESSAGE Reconciled 0, validated: 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:18.727
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:19.153
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:19.153
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:19.153
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:20.192
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:20.658
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:20.659
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:20.659
+!MESSAGE Reconciled 0, validated: 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:21.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:22.383
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:22.384
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:22.384
+!MESSAGE Reconciled 0, validated: 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.263
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.264
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.728
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.729
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.729
+!MESSAGE Reconciled 0, validated: 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:25.952
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:26.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:26.980
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:27.452
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:27.452
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:27.452
+!MESSAGE Reconciled 0, validated: 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:28.444
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:28.445
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:28.911
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:28.911
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:28.912
+!MESSAGE Reconciled 0, validated: 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:36.289
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:36.773
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:36.774
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:36.774
+!MESSAGE Reconciled 0, validated: 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:37.538
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:38.020
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:38.026
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:38.026
+!MESSAGE Reconciled 0, validated: 1. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:39.084
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:39.557
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:39.558
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:39.558
+!MESSAGE Reconciled 0, validated: 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:42.723
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:43.193
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:43.194
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:43.199
+!MESSAGE Reconciled 0, validated: 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:43.752
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:44.172
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:44.173
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:44.173
+!MESSAGE Reconciled 0, validated: 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:45.941
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:46.413
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:46.414
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:46.414
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:53.540
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:54.032
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:54.032
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:35:54.033
+!MESSAGE Reconciled 0, validated: 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:11.878
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:12.302
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:12.302
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:12.302
+!MESSAGE Reconciled 0, validated: 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:23.952
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:23.953
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.388
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.388
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.389
+!MESSAGE Reconciled 0, validated: 1. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.750
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.877
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:24.878
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:25.292
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:25.292
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:25.292
+!MESSAGE Reconciled 0, validated: 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:30.157
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:30.644
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:30.644
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:30.644
+!MESSAGE Reconciled 0, validated: 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:31.213
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:31.640
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:31.641
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:31.641
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:42.604
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:42.605
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:43.040
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:43.079
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:43.079
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:43.080
+!MESSAGE Reconciled 0, validated: 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:49.500
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:49.924
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:49.925
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:49.925
+!MESSAGE Reconciled 0, validated: 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:51.530
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:51.955
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:51.956
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:51.956
+!MESSAGE Reconciled 0, validated: 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:52.562
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:54.549
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:55.014
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:55.014
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:55.014
+!MESSAGE Reconciled 0, validated: 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:56.539
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:56.958
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:56.958
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:36:56.959
+!MESSAGE Reconciled 0, validated: 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:03.242
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:03.243
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:03.669
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:03.669
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:03.669
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:04.345
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:04.350
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:04.993
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:05.273
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:05.423
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:05.628
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:05.764
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.010
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.153
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.337
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.483
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.698
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:06.825
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.011
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.151
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.329
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.462
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.617
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.748
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:07.889
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:08.035
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:08.176
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:08.321
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:08.465
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:08.965
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:09.109
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:09.486
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:09.692
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:09.818
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:09.978
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:10.127
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:10.385
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:10.685
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:13.072
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:13.543
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:13.544
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:13.544
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:15.164
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:15.584
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:15.584
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:15.585
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:17.391
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:17.811
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:17.811
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:17.811
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:19.286
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:19.756
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:19.756
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:19.756
+!MESSAGE Reconciled 0, validated: 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:27.509
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:27.980
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:27.980
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:27.980
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:28.528
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:28.973
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:28.974
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:28.974
+!MESSAGE Reconciled 0, validated: 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:30.802
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:31.224
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:31.224
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:31.224
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:31.933
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:32.402
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:32.402
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:32.402
+!MESSAGE Reconciled 0, validated: 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.058
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.060
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.481
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.481
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.481
+!MESSAGE Reconciled 0, validated: 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.972
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:35.978
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:36.064
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:36.264
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:36.417
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:36.574
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:36.891
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:37.048
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:37.237
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:47.334
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:47.535
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:47.805
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:47.929
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.128
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.269
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.518
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.649
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.796
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:48.943
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:49.346
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:49.707
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:52.169
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:52.647
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:52.647
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:52.648
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:54.692
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:55.183
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:55.183
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:55.184
+!MESSAGE Reconciled 0, validated: 1. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:57.645
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:58.118
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:58.119
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:37:58.119
+!MESSAGE Reconciled 0, validated: 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:03.033
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:03.454
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:03.454
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:03.455
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:11.264
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:11.731
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:11.731
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:11.732
+!MESSAGE Reconciled 0, validated: 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:13.037
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:13.458
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:13.458
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:13.458
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:45.336
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:46.360
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:46.361
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:46.784
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:46.786
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:46.786
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:47.371
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:47.801
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:47.801
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:47.801
+!MESSAGE Reconciled 0, validated: 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:49.929
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:50.349
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:50.350
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:50.350
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:51.499
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:51.975
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:51.976
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:38:51.976
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:04.555
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:05.030
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:05.030
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:05.031
+!MESSAGE Reconciled 0, validated: 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:06.780
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:07.254
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:07.254
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:07.254
+!MESSAGE Reconciled 0, validated: 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:11.604
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:12.029
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:12.029
+!MESSAGE 3 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:12.030
+!MESSAGE Reconciled 0, validated: 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:14.268
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:14.681
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:14.681
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:14.681
+!MESSAGE Reconciled 0, validated: 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:16.173
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:16.644
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:16.644
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:16.645
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:17.300
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:17.742
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:17.743
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:17.743
+!MESSAGE Reconciled 0, validated: 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:18.322
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:18.791
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:18.791
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:18.791
+!MESSAGE Reconciled 0, validated: 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:29.731
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:30.157
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:30.158
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:30.158
+!MESSAGE Reconciled 0, validated: 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:59.913
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:39:59.916
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:00.336
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:00.336
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:00.336
+!MESSAGE Reconciled 0, validated: 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:00.905
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:01.325
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:01.326
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:01.326
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:05.218
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:05.665
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:05.665
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:05.665
+!MESSAGE Reconciled 0, validated: 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:13.858
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:14.335
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:14.335
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:14.335
+!MESSAGE Reconciled 0, validated: 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:19.187
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:19.188
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:19.677
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:19.678
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:19.678
+!MESSAGE Reconciled 0, validated: 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:20.044
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:20.046
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:20.887
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:21.098
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:21.344
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:21.484
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:21.778
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:22.189
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:23.983
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:24.449
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:24.452
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:24.872
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:24.872
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:24.872
+!MESSAGE Reconciled 0, validated: 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:25.019
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:26.622
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:26.627
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:53.074
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:53.076
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:53.906
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:55.600
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:40:55.602
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:04.120
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:04.122
+!MESSAGE >> document/didSave
+!SESSION 2019-09-02 11:41:06.464 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 11:41:07.755
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:09.136
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:09.243
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:09.267
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:09.279
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:09.297
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.077
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.082
+!MESSAGE Workspace initialized in 157ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.095
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.105
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.675
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.676
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:10.680
+!MESSAGE Reconciled 0, validated: 1. Took 132 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:18.238
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:18.402
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:18.732
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:18.886
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:19.184
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:19.343
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:19.501
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.036
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.532
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.582
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.639
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.891
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.935
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:20.986
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.040
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.095
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.137
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.186
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.243
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.292
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:21.403
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:22.385
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:22.553
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:22.966
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.108
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.269
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.409
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.571
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.721
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:23.873
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:24.033
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:24.179
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:24.343
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:24.484
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:33.586
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:33.598
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:34.079
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:34.080
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:34.080
+!MESSAGE Reconciled 0, validated: 1. Took 81 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:35.963
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:35.965
+!MESSAGE >> document/didSave
+!SESSION 2019-09-02 11:41:49.129 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/xuw/IdeaProjects/httpclient/src/main/java
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-09-02 11:41:50.151
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:51.576
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:51.700
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:51.722
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:51.724
+!MESSAGE Initializing Java Language Server 0.35.0.201903142358
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:51.742
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.302
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.306
+!MESSAGE Workspace initialized in 134ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.319
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.323
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/xuw/IdeaProjects/httpclient/src/main/java/HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.465
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.878
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.897
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.897
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:52.899
+!MESSAGE Reconciled 0, validated: 1. Took 98 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:53.743
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:54.084
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:54.431
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:54.700
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:41:54.998
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:03.023
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:03.516
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:03.516
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:03.517
+!MESSAGE Reconciled 0, validated: 1. Took 87 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:20.257
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:20.777
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:20.777
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:20.779
+!MESSAGE Reconciled 0, validated: 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:31.281
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:31.819
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:31.820
+!MESSAGE 4 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:31.821
+!MESSAGE Reconciled 0, validated: 1. Took 87 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:33.183
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:33.185
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:33.680
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:33.680
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:33.681
+!MESSAGE Reconciled 0, validated: 1. Took 95 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:34.184
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:34.662
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:34.663
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:34.663
+!MESSAGE Reconciled 0, validated: 1. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:38.997
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:39.476
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:39.483
+!MESSAGE 2 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:39.483
+!MESSAGE Reconciled 0, validated: 1. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:42.703
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:43.196
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:43.197
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:43.198
+!MESSAGE Reconciled 0, validated: 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:44.238
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:44.752
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:44.753
+!MESSAGE 1 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:44.753
+!MESSAGE Reconciled 0, validated: 1. Took 61 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:45.334
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:45.336
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:45.859
+!MESSAGE begin problem for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:45.860
+!MESSAGE 0 problems reported for /HTTP.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:45.860
+!MESSAGE Reconciled 0, validated: 1. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:49.305
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 11:42:49.307
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:02:14.767
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:02:14.941
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:02:15.152
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:02:15.291
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:02:15.431
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-09-02 12:22:44.770
+!MESSAGE >> document/documentHighlight
