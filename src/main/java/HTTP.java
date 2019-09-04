@@ -18,6 +18,7 @@ public class HTTP {
         Socket socket = null;
         OutputStream outputStream;
         InputStream inputStream = null;
+        StringBuilder builder = new StringBuilder();
         {
             try {
                 socket = new Socket("google.no", 80);
@@ -38,10 +39,12 @@ public class HTTP {
                     try {
                         int i;
                         while ((i = inputStream.read()) != -1) {
-                            System.out.println((char) i);
+                            builder.append((char)i);
                         }
                     } catch (IOException e) {
                         System.out.println("cant read socket");
+                    } finally {
+                        System.out.println(builder.toString());
                     }
 
                 }
